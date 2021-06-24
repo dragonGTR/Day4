@@ -1,0 +1,90 @@
+DEBUG:root:4
+INFO:root:2
+WARNING:root:[('to', 4)]
+CRITICAL:root:['madam']
+ERROR:root:['as', 'significant', 'use', 'is', 'Python', 'madam', 'programming', 'philosophy', 'readability', 'code', 'programmers', 'well', 'high-level', 'object-oriented', 'an', 'write', 'to', 'with', 'aim', 'and', 'notable', 'clear,', "Python's", 'constructing', 'large-scale', 'approach', 'of', 'Its', 'help', 'interpreted', 'for', 'logical', 'its', 'language', 'general-purpose', 'design', 'small', 'projects.', 'emphasizes', 'indentation.\n']
+DEBUG:root:{0: 'Python', 1: 'is', 2: 'madam', 3: 'an', 4: 'to', 5: 'interpreted', 6: 'high-level', 7: 'general-purpose', 8: 'programming', 9: 'to', 10: 'language', 11: "Python's", 12: 'design', 13: 'philosophy', 14: 'emphasizes', 15: 'code', 16: 'readability', 17: 'with', 18: 'its', 19: 'notable', 20: 'use', 21: 'of', 22: 'significant', 23: 'indentation.\n', 24: 'Its', 25: 'language', 26: 'constructing', 27: 'as', 28: 'well', 29: 'as', 30: 'its', 31: 'object-oriented', 32: 'approach', 33: 'aim', 34: 'to', 35: 'help', 36: 'programmers', 37: 'write', 38: 'clear,', 39: 'to', 40: 'logical', 41: 'code', 42: 'for', 43: 'small', 44: 'and', 45: 'large-scale', 46: 'projects.'}
+DEBUG:root:4
+INFO:root:2
+WARNING:root:[('to', 4)]
+CRITICAL:root:['madam']
+ERROR:root:['object-oriented', 'general-purpose', 'programming', 'interpreted', 'and', 'an', 'aim', 'constructing', 'clear,', 'of', 'emphasizes', 'notable', 'small', 'madam', 'code', 'indentation.\n', 'programmers', 'help', 'write', 'approach', 'its', 'projects.', 'design', 'Python', 'well', 'language', 'to', 'high-level', 'Its', 'significant', 'large-scale', 'use', 'philosophy', 'for', 'logical', 'as', 'is', 'with', 'readability', "Python's"]
+DEBUG:root:{0: 'Python', 1: 'is', 2: 'madam', 3: 'an', 4: 'to', 5: 'interpreted', 6: 'high-level', 7: 'general-purpose', 8: 'programming', 9: 'to', 10: 'language', 11: "Python's", 12: 'design', 13: 'philosophy', 14: 'emphasizes', 15: 'code', 16: 'readability', 17: 'with', 18: 'its', 19: 'notable', 20: 'use', 21: 'of', 22: 'significant', 23: 'indentation.\n', 24: 'Its', 25: 'language', 26: 'constructing', 27: 'as', 28: 'well', 29: 'as', 30: 'its', 31: 'object-oriented', 32: 'approach', 33: 'aim', 34: 'to', 35: 'help', 36: 'programmers', 37: 'write', 38: 'clear,', 39: 'to', 40: 'logical', 41: 'code', 42: 'for', 43: 'small', 44: 'and', 45: 'large-scale', 46: 'projects.'}
+DEBUG:root:4
+INFO:root:2
+WARNING:root:[('to', 4)]
+CRITICAL:root:['madam']
+ERROR:root:['its', 'readability', "Python's", 'general-purpose', 'projects.', 'small', 'well', 'programming', 'Its', 'for', 'aim', 'use', 'philosophy', 'to', 'approach', 'is', 'as', 'notable', 'code', 'indentation.\n', 'large-scale', 'programmers', 'emphasizes', 'help', 'language', 'madam', 'Python', 'object-oriented', 'of', 'significant', 'write', 'and', 'an', 'design', 'interpreted', 'with', 'high-level', 'constructing', 'logical', 'clear,']
+DEBUG:root:{0: 'Python', 1: 'is', 2: 'madam', 3: 'an', 4: 'to', 5: 'interpreted', 6: 'high-level', 7: 'general-purpose', 8: 'programming', 9: 'to', 10: 'language', 11: "Python's", 12: 'design', 13: 'philosophy', 14: 'emphasizes', 15: 'code', 16: 'readability', 17: 'with', 18: 'its', 19: 'notable', 20: 'use', 21: 'of', 22: 'significant', 23: 'indentation.\n', 24: 'Its', 25: 'language', 26: 'constructing', 27: 'as', 28: 'well', 29: 'as', 30: 'its', 31: 'object-oriented', 32: 'approach', 33: 'aim', 34: 'to', 35: 'help', 36: 'programmers', 37: 'write', 38: 'clear,', 39: 'to', 40: 'logical', 41: 'code', 42: 'for', 43: 'small', 44: 'and', 45: 'large-scale', 46: 'projects.'}
+DEBUG:root:4
+INFO:root:2
+WARNING:root:[('to', 4)]
+CRITICAL:root:['madam']
+ERROR:root:['Its', 'its', 'emphasizes', 'high-level', 'general-purpose', 'large-scale', 'to', 'philosophy', 'clear,', 'readability', 'write', "Python's", 'an', 'well', 'design', 'madam', 'small', 'approach', 'aim', 'Python', 'with', 'code', 'notable', 'projects.', 'interpreted', 'is', 'of', 'significant', 'programming', 'logical', 'programmers', 'as', 'help', 'and', 'constructing', 'indentation.\n', 'language', 'use', 'for', 'object-oriented']
+DEBUG:root:{0: 'Python', 1: 'is', 2: 'madam', 3: 'an', 4: 'to', 5: 'interpreted', 6: 'high-level', 7: 'general-purpose', 8: 'programming', 9: 'to', 10: 'language', 11: "Python's", 12: 'design', 13: 'philosophy', 14: 'emphasizes', 15: 'code', 16: 'readability', 17: 'with', 18: 'its', 19: 'notable', 20: 'use', 21: 'of', 22: 'significant', 23: 'indentation.\n', 24: 'Its', 25: 'language', 26: 'constructing', 27: 'as', 28: 'well', 29: 'as', 30: 'its', 31: 'object-oriented', 32: 'approach', 33: 'aim', 34: 'to', 35: 'help', 36: 'programmers', 37: 'write', 38: 'clear,', 39: 'to', 40: 'logical', 41: 'code', 42: 'for', 43: 'small', 44: 'and', 45: 'large-scale', 46: 'projects.'}
+DEBUG:root:4
+INFO:root:2
+WARNING:root:[('to', 4)]
+CRITICAL:root:['madam']
+ERROR:root:['with', 'to', 'object-oriented', 'logical', 'aim', 'emphasizes', 'indentation.\n', 'its', 'philosophy', 'general-purpose', 'madam', 'high-level', 'significant', 'well', 'notable', 'projects.', 'clear,', 'as', 'programmers', 'constructing', 'for', 'design', 'is', 'small', 'large-scale', 'Its', 'Python', "Python's", 'language', 'and', 'programming', 'interpreted', 'of', 'use', 'an', 'help', 'readability', 'code', 'approach', 'write']
+DEBUG:root:{0: 'Python', 1: 'is', 2: 'madam', 3: 'an', 4: 'to', 5: 'interpreted', 6: 'high-level', 7: 'general-purpose', 8: 'programming', 9: 'to', 10: 'language', 11: "Python's", 12: 'design', 13: 'philosophy', 14: 'emphasizes', 15: 'code', 16: 'readability', 17: 'with', 18: 'its', 19: 'notable', 20: 'use', 21: 'of', 22: 'significant', 23: 'indentation.\n', 24: 'Its', 25: 'language', 26: 'constructing', 27: 'as', 28: 'well', 29: 'as', 30: 'its', 31: 'object-oriented', 32: 'approach', 33: 'aim', 34: 'to', 35: 'help', 36: 'programmers', 37: 'write', 38: 'clear,', 39: 'to', 40: 'logical', 41: 'code', 42: 'for', 43: 'small', 44: 'and', 45: 'large-scale', 46: 'projects.'}
+DEBUG:root:4
+INFO:root:2
+WARNING:root:[('to', 4)]
+CRITICAL:root:['madam']
+ERROR:root:['high-level', 'well', 'Python', 'emphasizes', 'clear,', 'general-purpose', 'significant', 'projects.', 'madam', 'logical', 'language', 'programming', 'Its', 'approach', 'large-scale', 'to', 'its', 'help', 'indentation.\n', 'as', 'an', 'aim', 'small', 'constructing', 'for', 'object-oriented', 'write', 'with', 'use', 'is', 'readability', 'code', 'programmers', "Python's", 'of', 'and', 'philosophy', 'notable', 'interpreted', 'design']
+DEBUG:root:{0: 'Python', 1: 'is', 2: 'madam', 3: 'an', 4: 'to', 5: 'interpreted', 6: 'high-level', 7: 'general-purpose', 8: 'programming', 9: 'to', 10: 'language', 11: "Python's", 12: 'design', 13: 'philosophy', 14: 'emphasizes', 15: 'code', 16: 'readability', 17: 'with', 18: 'its', 19: 'notable', 20: 'use', 21: 'of', 22: 'significant', 23: 'indentation.\n', 24: 'Its', 25: 'language', 26: 'constructing', 27: 'as', 28: 'well', 29: 'as', 30: 'its', 31: 'object-oriented', 32: 'approach', 33: 'aim', 34: 'to', 35: 'help', 36: 'programmers', 37: 'write', 38: 'clear,', 39: 'to', 40: 'logical', 41: 'code', 42: 'for', 43: 'small', 44: 'and', 45: 'large-scale', 46: 'projects.'}
+DEBUG:root:4
+INFO:root:2
+WARNING:root:[('to', 4)]
+CRITICAL:root:['madam']
+ERROR:root:['general-purpose', 'madam', 'interpreted', 'large-scale', 'design', 'philosophy', 'to', 'indentation.\n', 'write', 'programming', 'aim', 'code', 'its', 'of', 'well', 'constructing', 'approach', 'readability', 'small', 'notable', 'is', 'an', 'Its', 'programmers', 'projects.', 'logical', 'Python', 'help', 'clear,', 'significant', 'use', 'with', 'object-oriented', 'for', "Python's", 'high-level', 'emphasizes', 'language', 'as', 'and']
+DEBUG:root:{0: 'Python', 1: 'is', 2: 'madam', 3: 'an', 4: 'to', 5: 'interpreted', 6: 'high-level', 7: 'general-purpose', 8: 'programming', 9: 'to', 10: 'language', 11: "Python's", 12: 'design', 13: 'philosophy', 14: 'emphasizes', 15: 'code', 16: 'readability', 17: 'with', 18: 'its', 19: 'notable', 20: 'use', 21: 'of', 22: 'significant', 23: 'indentation.\n', 24: 'Its', 25: 'language', 26: 'constructing', 27: 'as', 28: 'well', 29: 'as', 30: 'its', 31: 'object-oriented', 32: 'approach', 33: 'aim', 34: 'to', 35: 'help', 36: 'programmers', 37: 'write', 38: 'clear,', 39: 'to', 40: 'logical', 41: 'code', 42: 'for', 43: 'small', 44: 'and', 45: 'large-scale', 46: 'projects.'}
+DEBUG:root:4
+INFO:root:2
+WARNING:root:[('to', 4)]
+CRITICAL:root:['madam']
+ERROR:root:['programming', 'design', 'constructing', 'madam', 'emphasizes', 'indentation.\n', 'large-scale', 'to', 'an', 'small', 'programmers', 'object-oriented', 'philosophy', 'aim', 'notable', "Python's", 'interpreted', 'logical', 'clear,', 'of', 'Its', 'as', 'for', 'language', 'its', 'projects.', 'help', 'approach', 'use', 'code', 'with', 'readability', 'well', 'write', 'and', 'general-purpose', 'high-level', 'Python', 'significant', 'is']
+DEBUG:root:{0: 'Python', 1: 'is', 2: 'madam', 3: 'an', 4: 'to', 5: 'interpreted', 6: 'high-level', 7: 'general-purpose', 8: 'programming', 9: 'to', 10: 'language', 11: "Python's", 12: 'design', 13: 'philosophy', 14: 'emphasizes', 15: 'code', 16: 'readability', 17: 'with', 18: 'its', 19: 'notable', 20: 'use', 21: 'of', 22: 'significant', 23: 'indentation.\n', 24: 'Its', 25: 'language', 26: 'constructing', 27: 'as', 28: 'well', 29: 'as', 30: 'its', 31: 'object-oriented', 32: 'approach', 33: 'aim', 34: 'to', 35: 'help', 36: 'programmers', 37: 'write', 38: 'clear,', 39: 'to', 40: 'logical', 41: 'code', 42: 'for', 43: 'small', 44: 'and', 45: 'large-scale', 46: 'projects.'}
+DEBUG:root:4
+INFO:root:2
+WARNING:root:[('to', 4)]
+CRITICAL:root:['madam']
+ERROR:root:['help', 'programmers', 'large-scale', 'Python', 'with', 'code', 'readability', 'and', 'of', 'an', 'madam', 'small', 'interpreted', 'significant', 'emphasizes', 'programming', 'logical', 'well', 'write', 'philosophy', 'to', 'use', 'for', 'notable', 'Its', 'clear,', 'constructing', 'general-purpose', 'its', 'as', 'projects.', 'language', 'design', 'aim', 'indentation.\n', "Python's", 'high-level', 'object-oriented', 'is', 'approach']
+DEBUG:root:{0: 'Python', 1: 'is', 2: 'madam', 3: 'an', 4: 'to', 5: 'interpreted', 6: 'high-level', 7: 'general-purpose', 8: 'programming', 9: 'to', 10: 'language', 11: "Python's", 12: 'design', 13: 'philosophy', 14: 'emphasizes', 15: 'code', 16: 'readability', 17: 'with', 18: 'its', 19: 'notable', 20: 'use', 21: 'of', 22: 'significant', 23: 'indentation.\n', 24: 'Its', 25: 'language', 26: 'constructing', 27: 'as', 28: 'well', 29: 'as', 30: 'its', 31: 'object-oriented', 32: 'approach', 33: 'aim', 34: 'to', 35: 'help', 36: 'programmers', 37: 'write', 38: 'clear,', 39: 'to', 40: 'logical', 41: 'code', 42: 'for', 43: 'small', 44: 'and', 45: 'large-scale', 46: 'projects.'}
+DEBUG:root:4
+INFO:root:2
+WARNING:root:[('to', 4)]
+CRITICAL:root:['madam']
+ERROR:root:['emphasizes', 'object-oriented', 'code', 'high-level', 'aim', 'readability', 'notable', 'general-purpose', 'language', 'Its', 'indentation.\n', 'programming', 'design', 'Python', 'madam', 'for', "Python's", 'to', 'approach', 'write', 'its', 'use', 'help', 'constructing', 'philosophy', 'as', 'small', 'well', 'is', 'of', 'projects.', 'programmers', 'and', 'logical', 'an', 'interpreted', 'with', 'large-scale', 'significant', 'clear,']
+DEBUG:root:{0: 'Python', 1: 'is', 2: 'madam', 3: 'an', 4: 'to', 5: 'interpreted', 6: 'high-level', 7: 'general-purpose', 8: 'programming', 9: 'to', 10: 'language', 11: "Python's", 12: 'design', 13: 'philosophy', 14: 'emphasizes', 15: 'code', 16: 'readability', 17: 'with', 18: 'its', 19: 'notable', 20: 'use', 21: 'of', 22: 'significant', 23: 'indentation.\n', 24: 'Its', 25: 'language', 26: 'constructing', 27: 'as', 28: 'well', 29: 'as', 30: 'its', 31: 'object-oriented', 32: 'approach', 33: 'aim', 34: 'to', 35: 'help', 36: 'programmers', 37: 'write', 38: 'clear,', 39: 'to', 40: 'logical', 41: 'code', 42: 'for', 43: 'small', 44: 'and', 45: 'large-scale', 46: 'projects.'}
+DEBUG:root:4
+INFO:root:2
+WARNING:root:[('to', 4)]
+CRITICAL:root:['madam']
+ERROR:root:['small', 'is', 'well', 'of', 'madam', 'clear,', 'code', 'with', 'and', 'indentation.\n', 'significant', 'approach', 'to', 'programming', 'notable', 'large-scale', 'constructing', 'logical', 'high-level', 'Its', 'use', 'design', 'its', 'as', 'an', 'Python', 'general-purpose', 'emphasizes', 'projects.', "Python's", 'write', 'philosophy', 'aim', 'language', 'help', 'for', 'readability', 'interpreted', 'programmers', 'object-oriented']
+DEBUG:root:{0: 'Python', 1: 'is', 2: 'madam', 3: 'an', 4: 'to', 5: 'interpreted', 6: 'high-level', 7: 'general-purpose', 8: 'programming', 9: 'to', 10: 'language', 11: "Python's", 12: 'design', 13: 'philosophy', 14: 'emphasizes', 15: 'code', 16: 'readability', 17: 'with', 18: 'its', 19: 'notable', 20: 'use', 21: 'of', 22: 'significant', 23: 'indentation.\n', 24: 'Its', 25: 'language', 26: 'constructing', 27: 'as', 28: 'well', 29: 'as', 30: 'its', 31: 'object-oriented', 32: 'approach', 33: 'aim', 34: 'to', 35: 'help', 36: 'programmers', 37: 'write', 38: 'clear,', 39: 'to', 40: 'logical', 41: 'code', 42: 'for', 43: 'small', 44: 'and', 45: 'large-scale', 46: 'projects.'}
+DEBUG:root:4
+INFO:root:2
+WARNING:root:[('to', 4)]
+CRITICAL:root:['madam']
+ERROR:root:['design', 'interpreted', 'indentation.\n', 'programmers', 'programming', 'help', 'large-scale', 'projects.', 'significant', 'Python', "Python's", 'with', 'high-level', 'use', 'as', 'aim', 'madam', 'approach', 'philosophy', 'clear,', 'of', 'general-purpose', 'small', 'an', 'logical', 'is', 'Its', 'constructing', 'code', 'object-oriented', 'and', 'to', 'notable', 'write', 'well', 'readability', 'for', 'its', 'emphasizes', 'language']
+DEBUG:root:{0: 'Python', 1: 'is', 2: 'madam', 3: 'an', 4: 'to', 5: 'interpreted', 6: 'high-level', 7: 'general-purpose', 8: 'programming', 9: 'to', 10: 'language', 11: "Python's", 12: 'design', 13: 'philosophy', 14: 'emphasizes', 15: 'code', 16: 'readability', 17: 'with', 18: 'its', 19: 'notable', 20: 'use', 21: 'of', 22: 'significant', 23: 'indentation.\n', 24: 'Its', 25: 'language', 26: 'constructing', 27: 'as', 28: 'well', 29: 'as', 30: 'its', 31: 'object-oriented', 32: 'approach', 33: 'aim', 34: 'to', 35: 'help', 36: 'programmers', 37: 'write', 38: 'clear,', 39: 'to', 40: 'logical', 41: 'code', 42: 'for', 43: 'small', 44: 'and', 45: 'large-scale', 46: 'projects.'}
+DEBUG:root:4
+INFO:root:2
+WARNING:root:[('to', 4)]
+CRITICAL:root:['madam']
+ERROR:root:['Its', 'use', 'as', 'approach', "Python's", 'large-scale', 'indentation.\n', 'programming', 'general-purpose', 'small', 'constructing', 'well', 'significant', 'object-oriented', 'to', 'language', 'programmers', 'of', 'an', 'aim', 'Python', 'write', 'is', 'projects.', 'design', 'with', 'readability', 'help', 'emphasizes', 'code', 'its', 'logical', 'and', 'clear,', 'for', 'madam', 'notable', 'high-level', 'interpreted', 'philosophy']
+DEBUG:root:{0: 'Python', 1: 'is', 2: 'madam', 3: 'an', 4: 'to', 5: 'interpreted', 6: 'high-level', 7: 'general-purpose', 8: 'programming', 9: 'to', 10: 'language', 11: "Python's", 12: 'design', 13: 'philosophy', 14: 'emphasizes', 15: 'code', 16: 'readability', 17: 'with', 18: 'its', 19: 'notable', 20: 'use', 21: 'of', 22: 'significant', 23: 'indentation.\n', 24: 'Its', 25: 'language', 26: 'constructing', 27: 'as', 28: 'well', 29: 'as', 30: 'its', 31: 'object-oriented', 32: 'approach', 33: 'aim', 34: 'to', 35: 'help', 36: 'programmers', 37: 'write', 38: 'clear,', 39: 'to', 40: 'logical', 41: 'code', 42: 'for', 43: 'small', 44: 'and', 45: 'large-scale', 46: 'projects.'}
+DEBUG:root:4
+INFO:root:2
+WARNING:root:[('to', 4)]
+CRITICAL:root:['madam']
+ERROR:root:['write', 'well', 'readability', 'madam', 'is', 'Python', 'its', 'for', 'an', 'help', 'notable', 'aim', 'programmers', 'high-level', 'small', 'philosophy', 'large-scale', 'language', 'to', 'as', 'object-oriented', 'constructing', 'projects.', 'indentation.\n', 'of', 'use', 'with', 'and', 'logical', 'general-purpose', 'code', "Python's", 'emphasizes', 'significant', 'interpreted', 'programming', 'design', 'Its', 'approach', 'clear,']
+DEBUG:root:{0: 'Python', 1: 'is', 2: 'madam', 3: 'an', 4: 'to', 5: 'interpreted', 6: 'high-level', 7: 'general-purpose', 8: 'programming', 9: 'to', 10: 'language', 11: "Python's", 12: 'design', 13: 'philosophy', 14: 'emphasizes', 15: 'code', 16: 'readability', 17: 'with', 18: 'its', 19: 'notable', 20: 'use', 21: 'of', 22: 'significant', 23: 'indentation.\n', 24: 'Its', 25: 'language', 26: 'constructing', 27: 'as', 28: 'well', 29: 'as', 30: 'its', 31: 'object-oriented', 32: 'approach', 33: 'aim', 34: 'to', 35: 'help', 36: 'programmers', 37: 'write', 38: 'clear,', 39: 'to', 40: 'logical', 41: 'code', 42: 'for', 43: 'small', 44: 'and', 45: 'large-scale', 46: 'projects.'}
+DEBUG:root:4
+INFO:root:2
+WARNING:root:[('to', 4)]
+CRITICAL:root:['madam']
+ERROR:root:['logical', 'indentation.\n', 'notable', 'emphasizes', 'approach', 'small', 'clear,', 'madam', 'large-scale', 'aim', 'constructing', 'programming', 'with', 'general-purpose', 'readability', 'programmers', 'for', 'code', 'use', 'Its', 'projects.', 'object-oriented', 'language', 'of', 'high-level', 'design', 'is', 'philosophy', 'as', 'and', 'well', 'significant', 'write', 'its', "Python's", 'help', 'to', 'Python', 'an', 'interpreted']
+DEBUG:root:{0: 'Python', 1: 'is', 2: 'madam', 3: 'an', 4: 'to', 5: 'interpreted', 6: 'high-level', 7: 'general-purpose', 8: 'programming', 9: 'to', 10: 'language', 11: "Python's", 12: 'design', 13: 'philosophy', 14: 'emphasizes', 15: 'code', 16: 'readability', 17: 'with', 18: 'its', 19: 'notable', 20: 'use', 21: 'of', 22: 'significant', 23: 'indentation.\n', 24: 'Its', 25: 'language', 26: 'constructing', 27: 'as', 28: 'well', 29: 'as', 30: 'its', 31: 'object-oriented', 32: 'approach', 33: 'aim', 34: 'to', 35: 'help', 36: 'programmers', 37: 'write', 38: 'clear,', 39: 'to', 40: 'logical', 41: 'code', 42: 'for', 43: 'small', 44: 'and', 45: 'large-scale', 46: 'projects.'}
